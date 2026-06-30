@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+.npm/
+
+# Build outputs
+.next/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# Git submodules reference (keep the clone but exclude .git internals)
+wingman-reference/.git/
